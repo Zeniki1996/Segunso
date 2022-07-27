@@ -1,0 +1,129 @@
+{
+  "Items": [
+    {
+      "Category": null,
+      "GradeObjectId": 60669,
+      "GradeObjectName": "Progreso 1",
+      "GradeObjectType": 9,
+      "GradeValue": {
+        "PointsNumerator": 20.000000000,
+        "PointsDenominator": 20.000000000,
+        "WeightedNumerator": null,
+        "WeightedDenominator": null,
+        "GradeText": null,
+        "SchemeRangeId": null,
+        "DisplayValue": ""
+      },
+      "IsExempt": false
+    },
+    {
+      "Category": {
+        "Id": 60669,
+        "Name": "Progreso 1"
+      },
+      "GradeObjectId": 61707,
+      "GradeObjectName": "Tarea 1 ",
+      "GradeObjectType": 1,
+      "GradeValue": {
+        "PointsNumerator": 10.000000000,
+        "PointsDenominator": 10.000000000,
+        "WeightedNumerator": 10.000000000,
+        "WeightedDenominator": 10.000000000,
+        "GradeText": null,
+        "SchemeRangeId": null,
+        "DisplayValue": "10 / 10, 100%"
+      },
+      "IsExempt": false
+    },
+    {
+      "Category": {
+        "Id": 60669,
+        "Name": "Progreso 1"
+      },
+      "GradeObjectId": 61708,
+      "GradeObjectName": "Tarea 2",
+      "GradeObjectType": 1,
+      "GradeValue": {
+        "PointsNumerator": 10.000000000,
+        "PointsDenominator": 10.000000000,
+        "WeightedNumerator": 10.000000000,
+        "WeightedDenominator": 10.000000000,
+        "GradeText": null,
+        "SchemeRangeId": null,
+        "DisplayValue": "10 / 10, 100%"
+      },
+      "IsExempt": false
+    },
+    {
+      "Category": {
+        "Id": 60669,
+        "Name": "Progreso 1"
+      },
+      "GradeObjectId": 61709,
+      "GradeObjectName": "Tarea 5",
+      "GradeObjectType": 1,
+      "GradeValue": {
+        "PointsNumerator": null,
+        "PointsDenominator": 10.000000000,
+        "WeightedNumerator": null,
+        "WeightedDenominator": null,
+        "GradeText": null,
+        "SchemeRangeId": null,
+        "DisplayValue": "- / 10, -%"
+      },
+      "IsExempt": false
+    },
+    {
+      "Category": null,
+      "GradeObjectId": 60670,
+      "GradeObjectName": "Progreso 2",
+      "GradeObjectType": 9,
+      "GradeValue": {
+        "PointsNumerator": 9.500000000,
+        "PointsDenominator": 10.000000000,
+        "WeightedNumerator": null,
+        "WeightedDenominator": null,
+        "GradeText": null,
+        "SchemeRangeId": null,
+        "DisplayValue": ""
+      },
+      "IsExempt": false
+    },
+    {
+      "Category": {
+        "Id": 60670,
+        "Name": "Progreso 2"
+      },
+      "GradeObjectId": 61710,
+      "GradeObjectName": "Lectura1",
+      "GradeObjectType": 1,
+      "GradeValue": {
+        "PointsNumerator": 9.500000000,
+        "PointsDenominator": 10.000000000,
+        "WeightedNumerator": 9.500000000,
+        "WeightedDenominator": 10.000000000,
+        "GradeText": null,
+        "SchemeRangeId": null,
+        "DisplayValue": "9.5 / 10, 95%"
+      },
+      "IsExempt": false
+    },
+    {
+      "Category": null,
+      "GradeObjectId": 60671,
+      "GradeObjectName": "Progreso 3",
+      "GradeObjectType": 9,
+      "GradeValue": {
+        "PointsNumerator": null,
+        "PointsDenominator": null,
+        "WeightedNumerator": null,
+        "WeightedDenominator": null,
+        "GradeText": null,
+        "SchemeRangeId": null,
+        "DisplayValue": ""
+      },
+      "IsExempt": false
+    }
+  ],
+  "ExemptionAccessDate": "2022-07-27T21:26:42.610Z"
+}
